@@ -6,7 +6,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/example/inmem-pubsub/pubsub"
+	"github.com/michael-emmanuel/inmem-pubsub/pubsub"
 )
 
 // setup creates a broker with n subscriptions on topic "t". If drain is true,

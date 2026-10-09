@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/example/inmem-pubsub/internal/testutil"
-	"github.com/example/inmem-pubsub/pubsub"
+	"github.com/michael-emmanuel/inmem-pubsub/internal/testutil"
+	"github.com/michael-emmanuel/inmem-pubsub/pubsub"
 )
 
 type tagged struct{ pub, seq int }

@@ -8,7 +8,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/example/inmem-pubsub/pubsub"
+	"github.com/michael-emmanuel/inmem-pubsub/pubsub"
 )
 
 func main() {
